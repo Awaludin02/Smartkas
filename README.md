@@ -1,0 +1,2 @@
+# Smartkas
+Untuk menyimpan smartkas
